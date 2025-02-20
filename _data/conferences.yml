@@ -1,4 +1,14 @@
 # Security and Privacy  
+- name: Bharat Privacy Conference (India)
+  year: 2025
+  date: 15th November
+  description: DPO Club on Data Security and Privacy
+  link: https://bharatprivacyconference.com/
+  deadline:
+    - "2025-02-26 23:59"
+    - "2025-11-15 23:59"
+  place: New Delhi, India
+  tags: [SEC, PRIV, CONF, TOP4]
 
 - name: S&P (Oakland)
   year: 2026
